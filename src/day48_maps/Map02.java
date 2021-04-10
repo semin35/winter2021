@@ -23,7 +23,7 @@ public class Map02 {
 		
 		List<String> isimList=javaBilenler(map1,istenenDil);
 		System.out.println(isimList);
-		System.out.println(map1.values());
+		
 
 	}
 
@@ -40,7 +40,7 @@ public class Map02 {
 			}
 			
 		}
-		System.out.println(map1.values());
+		
 		
 		return isimListesi;
 	}
